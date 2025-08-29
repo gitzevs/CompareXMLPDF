@@ -1,0 +1,7 @@
+# Configuration file for the Comparator application
+
+# Path to files provides a path to the folders with XML's or PDF's
+Path2Files: C:\Users\Oleh_Badlo\Documents\XML\XML QAPAS FT ISSUEDEXTENSION
+
+# Exclude is a key specifies the exclusion substrings as a comma-separated list
+Exclude: @id, @paraID, @w14:paraId, EffectiveDt, ExpirationDt, CustLoginId, TransactionRequestDt, TransactionEffectiveDt, OtherId, PhoneNumber, InsuredOrPrincipal id, InsuredOrPrincipal id,Surname, GivenName, Addr id, EmailAddr, EffectiveDt, ExpirationDt, OriginalInceptionDt, RateEffectiveDt, QuotePreparedDt, AdditionalInterest id, CommercialName, VehicleIdentificationNumber, GlobalUniqueID, ChangeEffDate, NoteDetails, CreatedDate, OverridenByID, OverrideDate, PHLYScanLine, InvoiceNumber, FeeEffectiveDt, FeeExpiryDt, Coverage id, GlobalUniqueID, QuestionAnswer, EffectiveDt, ExpirationDt, RSGUIDRef, NoteDetails, @Date, FormsRecipients, UiUmRejFormReviewDate, UiUmRejFormReviewerId, ApSignatureDate, PhotoReviewDate, PhotoReviewedBy, BBValueDate, RiskExpiryDate, RiskEffectiveDate, VehIdentificationNumber, DriverExpiryDt, ClientDt, SPName,
